@@ -1,0 +1,12 @@
+{
+  "name": "hyer-wpp-button",
+  "version": "1.0.0",
+  "description": "WhatsApp beautiful button and component",
+  "main": "index.js",
+  "author": "Hyerdev",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
